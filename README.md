@@ -1,5 +1,5 @@
 # School REST API
-## Video Demo:  https://youtu.be/qPlT3NfJZ70
+
 ## Description:
 
 A REST API web-service that allows user to send http requests to work with students, groups or courses.
